@@ -1,0 +1,10 @@
+{
+    // Define region highlight styles
+    "bracket_styles": {
+        "tag": {
+            "icon": "tag",
+            "color": "brackethighlighter.tag",
+            "style": "highlight"
+        }
+    }
+}
