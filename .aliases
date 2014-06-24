@@ -6,7 +6,7 @@ alias .....="cd ../../../.."
 
 # Shortcuts
 # Dropbox needs to be fixed for personal and business folders
-alias d="cd ~/Dropbox (Personal)"
+alias d="cd ~/Dropbox\ (Personal)"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias p="cd ~/projects"
