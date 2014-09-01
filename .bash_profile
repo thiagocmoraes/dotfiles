@@ -46,3 +46,6 @@ complete -W "NSGlobalDomain" defaults;
 
 # Add `killall` tab completion for common apps
 complete -o "nospace" -W "Contacts Calendar Dock Finder Mail Safari iTunes SystemUIServer Terminal Twitter" killall;
+
+# Create `subl` link for CLI usage of Sublime Text 3
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" subl
