@@ -1,0 +1,3 @@
+correct sublime color scheme
+execute casks before .osx
+correct PS1 
