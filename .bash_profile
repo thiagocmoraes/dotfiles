@@ -1,6 +1,7 @@
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$PATH";
-export PATH=$PATH:~/bin/devtools/arcanist/bin/
+export PATH=$PATH:~/bin/devtools/arcanist/bin
+export PATH="/usr/local/bin:$PATH"
 
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.
