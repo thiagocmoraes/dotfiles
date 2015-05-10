@@ -2,6 +2,8 @@
 export PATH="$HOME/bin:$PATH";
 export PATH=$PATH:~/bin/devtools/arcanist/bin
 export PATH="/usr/local/bin:$PATH"
+export PATH="/Users/tmoraes/Library/Android/sdk:$PATH"
+export PATH="/Users/tmoraes/Library/Android/sdk/platform-tools:$PATH"
 
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.
