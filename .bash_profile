@@ -5,6 +5,10 @@ export PATH="/usr/local/bin:$PATH"
 export PATH="/Users/tmoraes/Library/Android/sdk:$PATH"
 export PATH="/Users/tmoraes/Library/Android/sdk/platform-tools:$PATH"
 
+# nvm path variables
+export NVM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
+
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.
 # * ~/.extra can be used for other settings you don’t want to commit.
