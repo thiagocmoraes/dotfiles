@@ -61,3 +61,7 @@ install homebrew/versions/lua52
 
 # Remove outdated versions from the cellar
 cleanup
+
+# install tldr tap
+tap tldr-pages/tldr 
+brew install tldr
