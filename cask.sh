@@ -19,5 +19,6 @@ brew cask install transmission 2> /dev/null
 brew cask install ukelele 2> /dev/null
 brew cask install virtualbox 2> /dev/null
 brew cask install vlc 2> /dev/null
+brew cask install notational-velocity 2> /dev/null
 
 brew cask install font-source-code-pro
