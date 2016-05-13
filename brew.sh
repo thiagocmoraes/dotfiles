@@ -37,6 +37,9 @@ brew install wget --with-iri
 # Install mosh for better ssh on bad network connections
 brew install mosh
 
+# INstall lastpass-cli so I can access my passwords
+brew install lastpass-cli --with-pinentry --with-doc
+
 # Install more recent versions of some OS X tools
 brew install vim --override-system-vi
 brew install homebrew/dupes/grep
