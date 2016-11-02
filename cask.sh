@@ -22,3 +22,6 @@ brew cask install vlc 2> /dev/null
 brew cask install notational-velocity 2> /dev/null
 
 brew cask install font-source-code-pro
+
+# PLugins for quicklook on Mac
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package
