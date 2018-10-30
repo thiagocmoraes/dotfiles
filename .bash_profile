@@ -6,9 +6,9 @@ export PATH="/usr/local/sbin:$PATH"
 export PATH="/Users/tmoraes/Library/Android/sdk:$PATH"
 export PATH="/Users/tmoraes/Library/Android/sdk/platform-tools:$PATH"
 
-# nvm path variables
-export NVM_DIR=~/.nvm
-source $(brew --prefix nvm)/nvm.sh
+# nvm path variables: it slows spawning new shells, enable only if needed
+# export NVM_DIR=~/.nvm
+# source $(brew --prefix nvm)/nvm.sh
 
 # Add Perl CPAN to $PATH
 PATH="~/perl5/bin${PATH:+:${PATH}}"; export PATH;
